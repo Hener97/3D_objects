@@ -56,7 +56,7 @@
     ],
     "buffers": [
         {
-            "uri": "model.bin",
+            "uri": "https://raw.githubusercontent.com/Hener97/3D_objects/main/model.bin",
             "byteLength": 864
         }
     ],
